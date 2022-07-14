@@ -7,6 +7,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .color1 {
     color: orange;
 }
@@ -48,6 +52,7 @@ h1 {
 
 .paragraph1 {
     text-align: justify;
+    padding-right: 5%;
 }
 
 .paragraph2 {
@@ -59,4 +64,12 @@ h1 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+
+.section3 {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 5px 10px gray;
 }
