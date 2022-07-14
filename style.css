@@ -23,12 +23,3 @@ section {
 .half-width img {
     width: 100%;
 }
-
-.link-button {
-    text-decoration: none;
-    background-image: linear-gradient(orange, tomato, rgb(213, 93, 93), );
-    padding: 10px 40px;
-    border-radius: 7px;
-    color: white;
-    font-weight: 700;
-}
