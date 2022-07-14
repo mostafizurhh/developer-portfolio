@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.display-flex {
     display: flex;
     padding-left: 4%;
     margin-bottom: 50px;
