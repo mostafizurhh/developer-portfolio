@@ -44,3 +44,12 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.paragraph1 {
+    text-align: justify;
+}
+
+.paragraph2 {
+    margin-right: 98px;
+    text-align: justify;
+}
