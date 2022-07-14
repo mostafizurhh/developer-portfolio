@@ -54,3 +54,9 @@ h1 {
     margin-right: 98px;
     text-align: justify;
 }
+
+.experience-bg {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
